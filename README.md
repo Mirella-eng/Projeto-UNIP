@@ -13,4 +13,4 @@ pip install -r requirements.txt
 python app.py
 
 ## Simulação do circuito
-Link do Wokwi: [colar o link do projeto]
+Link do Wokwi: https://wokwi.com/projects/480803770076685313
